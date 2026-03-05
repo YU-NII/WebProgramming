@@ -24,7 +24,7 @@ Although I do not have commercial work experience yet, I am eager to learn new t
 ## 💻 Technical Skills
 
 - **Programming Language**: C# (Basic knowledge)
-- **Tools**: Visual Studio, Git, GitHub
+- **Tools**: Visual Studio, Git, GitHub, Visual Studio Code
 - **Concepts**: OOP basics, Console applications, WinForms basics
 
 ---
