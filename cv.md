@@ -55,11 +55,3 @@ class Program
         Console.ReadKey();
     }
 }
-
----
-
-## 📚 Courses & Training
-
-- Programming Fundamentals — Belarusian-Russian University, 2024-2026
-- Git & GitHub Basics — Self-study, 2026
-- HTML & CSS Introduction — Online Course, 2025
