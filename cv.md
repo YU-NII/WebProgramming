@@ -5,11 +5,11 @@
 ---
 
 ## Contact Information
-- Phone: [+375 33 910 80 65](tel:+375339108065)
-- Email: [denhy_shenky@mail.ru](mailto:denhy_shenky@mail.ru)
-- Location: Mogilev, Belarus
-- GitHub: [github.com/YU-NII](https://github.com/YU-NII)
-- Languages: Russian (Native), English (B1)
+-  Phone: [+375 33 910 80 65](tel:+375339108065)
+-  Email: [denhy_shenky@mail.ru](mailto:denhy_shenky@mail.ru)
+-  Location: Mogilev, Belarus
+-  GitHub: [github.com/YU-NII](https://github.com/YU-NII)
+-  Languages: Russian (Native), English (B1)
 
 ---
 
