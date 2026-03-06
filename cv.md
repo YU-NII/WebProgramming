@@ -1,5 +1,7 @@
 # Zlata Solenova
 
+<img src="photo.jpg" alt="Photo" width="200" height="150" style="float: right; border: 1px solid #ccc;">
+
 **Software Engineering Student**
 
 ---
